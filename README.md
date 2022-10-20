@@ -1,5 +1,6 @@
 # Learn DevOps
-instalando jenkins
+para instalar o jenkins basta usar o comando:
+https://raw.githubusercontent.com/LuizFernandesOliveira/jenkins-course/master/scripts/install_jenkins.sh
 
 
 CI/CD with Jenkins using Pipelines and Docker
