@@ -1,4 +1,6 @@
 # Learn DevOps
+instalando jenkins
+
 
 CI/CD with Jenkins using Pipelines and Docker
 
